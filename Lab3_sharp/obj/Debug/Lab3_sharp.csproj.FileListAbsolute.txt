@@ -1,0 +1,12 @@
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.View.MainForm.resources
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.View.RoomForm.resources
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\bin\Debug\Lab3_sharp.exe.config
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\bin\Debug\Lab3_sharp.exe
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\bin\Debug\Lab3_sharp.pdb
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.exe
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.pdb
+C:\Users\Пользователь\source\repos\Lab3_sharp\Lab3_sharp\obj\Debug\Lab3_sharp.View.WorkerForm.resources
